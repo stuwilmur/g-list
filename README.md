@@ -6,4 +6,4 @@ This tool helps the user to have a sense of the potential for improvement in cov
 
 This interactive map was realised with D3.
 
-This repository is superseded by the [GRADE tool|https://github.com/stuwilmur/GRADE].
+This repository is superseded by the [GRADE tool](https://github.com/stuwilmur/GRADE).
